@@ -1,0 +1,7 @@
+{
+  "name": "Continuum Arcadia Amethyst",
+  "description": "Bespoke Coachbuild Automotive Showcase and Configurator for the Continuum Arcadia Amethyst hyper-luxury concept, featuring cinema reel, interactive galleria, engineering anatomy, bespoke atelier, and Patek Philippe horology pairing.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
