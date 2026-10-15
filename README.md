@@ -36,12 +36,12 @@ The <b>Continuum Arcadia Amethyst</b> is an ultra-exclusive hyper-luxury coachbu
 
 *   **Cinema Reel (4K)**: Fullscreen cinematic presentation video reel equipped with ambient audio controls, play/pause functions, and live telemetry HUD indicators.
 *   **Curated Galleria**: Features 34 high-resolution masterwork captures spanning exterior dihedral gullwing doors, diverse environmental backdrops (coastal villa, mountain stream, midnight city, private vault), interior sanctuary, powertrain, and horology with an integrated interactive lightbox.
-*   **Bespoke Atelier Configurator**: An interactive coachbuild suite empowering real-time customization of exterior finishes (Amethyst Deep Velvet, Continuum Morph Duotone, Arcadia Silver, Midnight Shadow), an illuminated crystal Spirit of Ecstasy, interior seating layouts, luggage suite options, and unique commission code generation[cite: 1].
-*   **Engineering Anatomy & Cutaway**: Interactive hotspots layered over the technical blueprint cutaway (`19. Anatomy.jpg`), accompanied by a dual-engine inspection toggle between the twin-turbo V12 block and solid-state electric hybrid components[cite: 1].
-*   **Cockpit & Starlight Sky-Lounge**: Dashboard explorer highlighting open-pore Santos Palisander wood veneer, dual physical tourbillon chronometers, drive mode dynamics (Arcadia Whisper, Sovereign Comfort, Continuum Hyper 3000 HP, Alpine Grand Tour), ambient lighting color controls, and an electrochromic starlight opacity slider[cite: 1].
-*   **Horology Suite (Patek Philippe pour Continuum)**: A live ticking mechanical clock complication synchronized with minute repeater tourbillon details, presentation casket view, and titanium key fob featuring a pulsating amethyst light beacon[cite: 1].
-*   **Official Commission Dossier & Docket**: A printable technical specification document certifying the build allocation[cite: 1].
-*   **Private Client Commission Inquiry**: Secure, encrypted inquiry modal facilitating allocation acquisition and custom treadplate engraving[cite: 1].
+*   **Bespoke Atelier Configurator**: An interactive coachbuild suite empowering real-time customization of exterior finishes (Amethyst Deep Velvet, Continuum Morph Duotone, Arcadia Silver, Midnight Shadow), an illuminated crystal Spirit of Ecstasy, interior seating layouts, luggage suite options, and unique commission code generation .
+*   **Engineering Anatomy & Cutaway**: Interactive hotspots layered over the technical blueprint cutaway (`19. Anatomy.jpg`), accompanied by a dual-engine inspection toggle between the twin-turbo V12 block and solid-state electric hybrid components .
+*   **Cockpit & Starlight Sky-Lounge**: Dashboard explorer highlighting open-pore Santos Palisander wood veneer, dual physical tourbillon chronometers, drive mode dynamics (Arcadia Whisper, Sovereign Comfort, Continuum Hyper 3000 HP, Alpine Grand Tour), ambient lighting color controls, and an electrochromic starlight opacity slider .
+*   **Horology Suite (Patek Philippe pour Continuum)**: A live ticking mechanical clock complication synchronized with minute repeater tourbillon details, presentation casket view, and titanium key fob featuring a pulsating amethyst light beacon .
+*   **Official Commission Dossier & Docket**: A printable technical specification document certifying the build allocation .
+*   **Private Client Commission Inquiry**: Secure, encrypted inquiry modal facilitating allocation acquisition and custom treadplate engraving .
 
 ---
 
